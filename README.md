@@ -6,11 +6,11 @@ I'm a Computer Information Systems student at Baruch College, concentrating in D
 
 My coursework projects are organized here:
 
-[View Academic Projects](https://github.com/Swikc4/Projects/tree/main/academic-projects)
+[View Academic Projects](https://github.com/Swikc4/projects/tree/main/academic-projects)
 
 These include:
 
-* [NYC Motor Vehicle Collision Fatality Analysis](https://github.com/Swikc4/NYC-Motor-Vehicle-Collision-Fatality-Analysis)
+* [NYC Motor Vehicle Collision Fatality Analysis](https://github.com/Swikc4/nyc-motor-vehicle-collision-fatality-analysis)
 * [Music Listening Database Application Contribution](https://github.com/Swikc4/music-listening-database-contribution)
 * [Press Release to Plot Industry Comparison](https://github.com/Swikc4/press-release-to-plot)
 * [SQLite Database Design](https://github.com/Swikc4/sqlite-database-design)
@@ -19,11 +19,11 @@ These include:
 
 My independent projects will be organized separately here as I build them:
 
-[View Personal Projects](https://github.com/Swikc4/Projects/tree/main/personal-projects)
+[View Personal Projects](https://github.com/Swikc4/projects/tree/main/personal-projects)
 
 ## Coursework Repository
 
-[CIS 3120 Programming for Analytics](https://github.com/Swikc4/CIS3120)
+[CIS 3120 Programming for Analytics](https://github.com/Swikc4/cis3120)
 
 ## Technical Focus
 
