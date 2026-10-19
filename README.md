@@ -18,7 +18,6 @@
     <li><a href="#personal-projects">Personal Projects</a></li>
     <li><a href="#coursework-repository">Coursework Repository</a></li>
     <li><a href="#technical-focus">Technical Focus</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -71,13 +70,3 @@ These include:
 ## Technical Focus
 
 Python · SQL · SQLite · PostgreSQL · pandas · scikit-learn · REST APIs · Folium · Git/GitHub · Microsoft Excel · Data Cleaning · Exploratory Data Analysis · Classification · Relational Database Design
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contact
-
-Swikriti KC - [LinkedIn](https://www.linkedin.com/in/swikriti-kc/)
-
-Project Link: [https://github.com/Swikc4/projects](https://github.com/Swikc4/projects)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
