@@ -4,7 +4,7 @@
 <div align="center">
   <h3 align="center">Project Portfolio</h3>
   <p align="center">
-    Index of my academic and personal data analytics projects - Baruch College CIS, Data Analytics concentration
+    Index of my academic and personal data analytics projects, Baruch College CIS, Data Analytics concentration
     <br />
     <a href="https://github.com/Swikc4/projects"><strong>Explore the repo »</strong></a>
   </p>
@@ -57,7 +57,7 @@ These include:
 
 ## Club Projects
 
-* [Hurricane Risk Prediction](https://github.com/Swikc4/hurricane-risk-prediction) - Data Science and Machine Learning Club project
+* [Hurricane Risk Prediction](https://github.com/Swikc4/hurricane-risk-prediction), Data Science and Machine Learning Club project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
